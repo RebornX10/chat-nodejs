@@ -1,31 +1,31 @@
 {
-  "name": "tokyochat",
-  "version": "1.0.0",
-  "description": "Real time chat with socket.io and Node.js",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/franciscop/tokyochat.git"
-  },
-  "keywords": [
-    "chat",
-    "real",
-    "time",
-    "socket.io",
-    "tokyo",
-    "japan"
-  ],
-  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/franciscop/tokyochat/issues"
-  },
-  "homepage": "https://github.com/franciscop/tokyochat#readme",
-  "dependencies": {
-    "server": "^1.0.0-beta.2"
-  }
+    "name": "docto-chat",
+    "version": "1.0.0",
+    "description": "Socket.io and Node.js chat doctor-patient (or basically user to user)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RebornX10/chat-nodejs.git"
+    },
+    "keywords": [
+        "chat",
+        "real",
+        "time",
+        "socket.io",
+        "tokyo",
+        "japan"
+    ],
+    "author": "Samuel ADONE",
+    "license": "Creative Common, I guess?",
+    "bugs": {
+        "url": "https://github.com/RebornX10/chat-nodejs/issues"
+    },
+    "homepage": "https://github.com/RebornX10/chat-nodejs#readme",
+    "dependencies": {
+        "server": "^1.0.0-beta.2"
+    }
 }
