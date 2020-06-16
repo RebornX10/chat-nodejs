@@ -15,9 +15,7 @@
         "chat",
         "real",
         "time",
-        "socket.io",
-        "tokyo",
-        "japan"
+        "socket.io"
     ],
     "author": "Samuel ADONE",
     "license": "Creative Common, I guess?",
